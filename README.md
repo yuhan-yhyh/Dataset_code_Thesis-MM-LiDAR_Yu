@@ -1,4 +1,4 @@
-# Codes and datasets related to the doctoral thesis **"Material probing using multimodal multispectral LiDAR based on a femtosecond-laser supercontinuum"**. 
+# **Material probing using multimodal multispectral LiDAR based on a femtosecond-laser supercontinuum**
 [Thesis link](https://www.research-collection.ethz.ch/handle/20.500.11850/666007)
 
 ### Thesis abstract
