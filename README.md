@@ -14,7 +14,7 @@ Han, Y., Salido-Monzú, D. and Wieser, A., 2022. Comb-based multispectral LiDAR 
 
 ### Paper B
 Han, Y., Salido-Monzú, D., Butt, J.A., Schweizer, S. and Wieser, A., “A feature selection method for multimodal multispectral LiDAR sensing," under review.
-[Dataset and codes](https://github.com/yuhan-yhyh/Dataset_Code_MGSVM-FS-MM-LiDAR.git)
+[Article DOI](https://doi.org/10.1016/j.isprsjprs.2024.04.022)    [Dataset and codes](https://github.com/yuhan-yhyh/Dataset_Code_MGSVM-FS-MM-LiDAR.git)
 
 ### Paper C
 Han, Y., Salido-Monzú, D. and Wieser, A., 2023. Classification of material and surface roughness using polarimetric multispectral LiDAR. Optical Engineering, 62(11), pp.114104-114104.
